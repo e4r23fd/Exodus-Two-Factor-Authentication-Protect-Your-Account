@@ -3,6 +3,9 @@
 # Information
 In these days we need to be sure that data which we using and sharing is consistent and we can trust in it. One of methods is protect your api as best as possibile. I decided to share my approach to protect Django REST Framework JWT with Twilio 2FA. Hope it will save time which i spent to implement Twilio 2FA for REST API safely. In this sample project i showing integration with Authy API from Twilio for Python.
 
+![Exodus_Logo-removebg-preview](https://user-images.githubusercontent.com/106811566/171853360-e2a350e4-76f5-49f1-8962-f11034941d87.png)
+
+
 ## Features
 
 * Support for 2 types of OTP codes
