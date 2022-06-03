@@ -20,6 +20,9 @@ In these days we need to be sure that data which we using and sharing is consist
 Magento 2 Two Factor Authentication module
 ==========================================
  
+ ![image](https://user-images.githubusercontent.com/106811566/171853515-21f66070-ca76-45c7-a38b-e67da66989f1.png)
+
+ 
 This module will eventually provide Google Authenticator protection for both the customer and admin accounts of a 
 Magento 2 store.
 
